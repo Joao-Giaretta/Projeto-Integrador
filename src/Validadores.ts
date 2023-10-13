@@ -1,4 +1,4 @@
-import { Aeronave } from "./Aeronave";
+import { Aeronave } from "./Campos";
 
 // neste arquivo colocaremos TODAS as funções de validação para todo tipo de objeto. 
 
